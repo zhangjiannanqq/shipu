@@ -8,7 +8,7 @@ public class Jianfa {
 		System.out.println("剑法2");
 		System.out.println("剑法3");
 		System.out.println("剑法4");
-		
+		System.out.println("剑法5");
 		
 	}
 
